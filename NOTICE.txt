@@ -1160,7 +1160,7 @@ Public License instead of this License.  But first, please read
 
 ---------------------------------------------------------
 
-nvm-sh/nvm - MIT
+nvm-sh/nvm - MIT:
 http://nvm.sh/
 
 
