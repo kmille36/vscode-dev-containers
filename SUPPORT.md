@@ -2,7 +2,7 @@
 
 ## How to file issues and get help
 
-This project primarily uses GitHub Issues to track bugs and feature requests.
+This project primarily uses GitHub Issues to track bugs and feature requests..
 
 1. For bugs and feature requests pertaining to the **development containers and associated images** in this repository, please search the [existing issues](https://github.com/microsoft/vscode-dev-containers/issues) before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new Issue.
 
